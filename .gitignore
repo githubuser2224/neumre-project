@@ -1,0 +1,11 @@
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+
+# Python environment
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
