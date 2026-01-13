@@ -1,8 +1,9 @@
-#Instalation:
-1. *Clone repo:**
-   ```bash
+# Installation:
+1. **Clone repo:**
+ ```bash
    git clone [https://github.com/korisnik/projekt-rnn.git](https://github.com/korisnik/projekt-rnn.git)
    cd projekt-rnn
+```
 
 2. **Env setup:**
  ```bash
@@ -15,6 +16,7 @@
  ```bash
 pip install -r requirements.txt
 ```
-#Dataset:
+# Dataset:
+- Kaggle link to dataset: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres/data
 
 
